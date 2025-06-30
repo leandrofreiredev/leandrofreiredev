@@ -1,6 +1,6 @@
 #  Leandro Freire
 
-**`Qualidade de software`**
+**`Desenvolvimento de Sistemas /Qualidade de Software`**
 
 Me chamo Leandro Freire, tenho 39 anos e sou natural de Pernambuco. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIFATECIE. 
 <!--
