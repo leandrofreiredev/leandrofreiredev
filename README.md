@@ -1,4 +1,4 @@
-#  Leandro Freire
+
 
 **`Desenvolvimento de Sistemas /Qualidade de Software`**
 
@@ -44,7 +44,8 @@ Sou um entusiasta da tecnologia em transição de carreira para a área de **Qua
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=jira&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ---
 
 ## 📫 Contato
