@@ -14,6 +14,7 @@ Sou um entusiasta da tecnologia em transição de carreira para a área de **Qua
 
 - ✅ Fundamentos de Qualidade de Software (testes manuais e automatizados)
 - ✅ Python para automação de testes
+- ✅ Java (fundamentos e aplicações práticas)
 - ✅ Postman para testes de API REST
 - ✅ Versionamento com Git e GitHub
 - ✅ Organização e rastreabilidade de tarefas com Jira
@@ -29,16 +30,20 @@ Sou um entusiasta da tecnologia em transição de carreira para a área de **Qua
 
 ---
 
-## 🧪 Certificações recentes
+📜 Certificações concluídas:
 
-- 🧾 **Testando APIs utilizando Postman** - Cursa Cursos Online
-- 🧾 [Outras certificações futuras serão listadas aqui...]
-
+- 🎓 Como construir um backlog eficiente — DIO.me (2025)
+- 🎓 Introdução ao Java — DIO.me (2025)
+- 🎓 Versionamento de código com Git e GitHub — DIO.me (2025)
+- 🎓 Técnicas de engenharia de prompts — DIO.me (2025)
+- 🎓 Certificação CTFL (Certified Tester Foundation Level) — [em andamento]
+- 🎓 Curso RSI Academy: Product Backlog, User Stories, DOR, DOD, Jira e Técnicas de Priorização — RSI Academy (2025)
 ---
 
 ## 🛠️ Ferramentas que utilizo
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
