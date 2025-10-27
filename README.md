@@ -4,7 +4,7 @@
 
 # 👋 Olá! Eu sou o Leandro Freire
 
-Sou um entusiasta da tecnologia em transição de carreira para a área de **Qualidade de Software (QA)** e Desenvolvimento. Atualmente me dedico aos estudos de **Python**, **Testes de Software**, **APIs**, **Postman**, **Git/GitHub** e **Jira**.
+Sou um entusiasta da tecnologia em transição de carreira para a área de **Qualidade de Software (QA)** e Desenvolvimento. Atualmente me dedico aos estudos de **Java**, **Javascrip**,**Cypress**, **Testes de Software**, **APIs**, **Postman**, **Git/GitHub** e **Jira**.
 
 ---
 
