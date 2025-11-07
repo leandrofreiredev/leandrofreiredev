@@ -13,7 +13,7 @@ Sou um entusiasta da tecnologia em transição de carreira para a área de **Qua
 🎯 Foco atual:
 
 - ✅ Fundamentos de Qualidade de Software (testes manuais e automatizados)
-- ✅ Python para automação de testes
+- ✅ JavaScript para automação de testes
 - ✅ Java (fundamentos e aplicações práticas)
 - ✅ Postman para testes de API REST
 - ✅ Versionamento com Git e GitHub
@@ -26,14 +26,16 @@ Sou um entusiasta da tecnologia em transição de carreira para a área de **Qua
 
 - Aprimorando lógica de programação e estrutura de código
 - Praticando testes funcionais e não funcionais
-- Estudando ferramentas de automação e frameworks de testes (como Selenium e Pytest)
+- Estudando ferramentas de automação e frameworks de testes (como Cypress, Selenium)
 
 ---
 
 📜 Certificações concluídas:
 
+- 🎓 BootCamp Quality Assurance — Escola Atlantico Avanti (2025)
 - 🎓 Como construir um backlog eficiente — DIO.me (2025)
 - 🎓 Introdução ao Java — DIO.me (2025)
+- 🎓JavaScript para Testers (2025)
 - 🎓 Versionamento de código com Git e GitHub — DIO.me (2025)
 - 🎓 Técnicas de engenharia de prompts — DIO.me (2025)
 - 🎓 Certificação CTFL (Certified Tester Foundation Level) — [em andamento]
@@ -42,7 +44,6 @@ Sou um entusiasta da tecnologia em transição de carreira para a área de **Qua
 
 ## 🛠️ Ferramentas que utilizo
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
